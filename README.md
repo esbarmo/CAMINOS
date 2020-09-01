@@ -1,2 +1,2 @@
 # Archivo
-En este repositorio se encuentran los archivos referentes al proyecto "Caminos".
+En este repositorio se encuentra el código referente al proyecto "Caminos".
